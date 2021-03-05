@@ -1,1 +1,4 @@
 gitdemo.txt
+
+made changes to check the status.
+
